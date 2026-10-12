@@ -1,0 +1,6 @@
+{
+  "name": "TaskPad — Master Notepad Playbook Hub",
+  "description": "Transform local notepad files and raw step-by-step instructions into an interactive master checklist homepage with command copy buttons, repeatable run resets, and notepad export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
